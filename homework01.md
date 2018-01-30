@@ -10,11 +10,15 @@
 
 1.  **Define the term essential difficulties as it is used by Brooks. Provide background and context with your answer and at least one example of an essential difficulty.** 
 
+  ​
+
   Brooks explains essential difficulties as problems with software that stem from the definition of what software is comprised of, not from the ways in which we implement and create software. Software is comprised of many concepts that are difficult to conceptualize since they aren’t tangible. For example, software is fairly complex and it is extremely difficult to visualize all of the functionality and workflow of software in a single diagram. Therefore, contains this essential complexity by definition, then there isn’t really a way to simplify this complexity or any other essential difficulty in order to achieve an order of magnitude improvement. 
 
   ​
 
 2.  **Define the term accidental difficulties as it is used by Brooks. Provide background and context with your answer and at least one example of an accidental difficulty.**
+
+  ​
 
   An accidental difficulty is different than an essential difficulty, because the accidental difficulties come from how we approach creating software, and not by the definition of the software itself. Brooks gives an example of an accidental difficulty as the turnaround time between coding software and actual compiling and running the program. At the time the article was written, compilers and IDEs were not readily available on personal computers, and therefore there was a big time gap between implementing the code and compiling the code. During this time gap, the thoughts and ideas that a developer would have in their mind while coding could be lost and forgotten by the time that the developer gets the compilation results and returns to do more coding. However, this is an accidental difficulty that resulted from how people developed software at that time, and not a difficulty that existed in the ‘essence’ of software. Nowadays the accidental difficulty of turnaround time has been minimized (if not eliminated) with technology advancements, however it is a still a small difficulty in comparison to the essential difficulties of software (the essential difficulties that Brooks explains prevent the major improvement in software development).
 
