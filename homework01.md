@@ -1,10 +1,10 @@
-Kristopher Neilsen
+#### Kristopher Neilsen
 
-CSCI 5828 Foundations of Software Engineering
+##### CSCI 5828 Foundations of Software Engineering
 
-January 23rd 2018
+###### January 23rd 2018
 
-Homework 1
+###### Homework 1
 
 **Review the material in Lectures 1 and 2 and read the No Silver Bullet article available on the class's GitHub repo. Based on that review and your own experience, answer the questions below.**
 
@@ -20,7 +20,7 @@ Homework 1
 
   ​
 
-3.	**List and briefly describe the four essential difficulties of developing software systems that Brooks identifies. Provide additional examples of each type of the four essential difficulties.**
+  3.**List and briefly describe the four essential difficulties of developing software systems that Brooks identifies. Provide additional examples of each type of the four essential difficulties.**
 
    *Complexity*
 
