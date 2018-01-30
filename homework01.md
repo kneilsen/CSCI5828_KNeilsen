@@ -20,23 +20,23 @@
 
   ​
 
-  3.**List and briefly describe the four essential difficulties of developing software systems that Brooks identifies. Provide additional examples of each type of the four essential difficulties.**
+3.  **List and briefly describe the four essential difficulties of developing software systems that Brooks identifies. Provide additional examples of each type of the four essential difficulties.**
 
-   *Complexity*
+     *Complexity*
 
-   Software is a complex domain, containing many unique functions with different logic (hardly every duplicating the same parts), consisting of many different states that the program and or programmer need to keep track of (and are not always defined or caught), and lastly are often solving an already complex problem in the real world. An additional example of complexity that my company struggles with are all the corresponding artifacts that are needed in additional to just the software, such as requirements documents, technical design documents, user guides, installation guides and release notes, which all must be kept up to date and in sync for each release, which is usually more work than just creating the software. 
+     Software is a complex domain, containing many unique functions with different logic (hardly every duplicating the same parts), consisting of many different states that the program and or programmer need to keep track of (and are not always defined or caught), and lastly are often solving an already complex problem in the real world. An additional example of complexity that my company struggles with are all the corresponding artifacts that are needed in additional to just the software, such as requirements documents, technical design documents, user guides, installation guides and release notes, which all must be kept up to date and in sync for each release, which is usually more work than just creating the software. 
 
-   *Conformity*
+     *Conformity*
 
-   Conformity is a complexity that does not really have a reason for why the software works or is asked to change in a certain way. The software is asked to work a certain way, which might not always be the best way. It is therefore extremely difficult to plan for irrational conformity because there is not a good rationale to design for how the software might change. An example of conformity is tax return software that is required to change annually to fit the federal IRS tax laws that can change annually. If a tax program could not change to fit these laws for the new tax year, then the program would not be successful.
+     Conformity is a complexity that does not really have a reason for why the software works or is asked to change in a certain way. The software is asked to work a certain way, which might not always be the best way. It is therefore extremely difficult to plan for irrational conformity because there is not a good rationale to design for how the software might change. An example of conformity is tax return software that is required to change annually to fit the federal IRS tax laws that can change annually. If a tax program could not change to fit these laws for the new tax year, then the program would not be successful.
 
-   *Changeability*
+     *Changeability*
 
-   Software again is conceptual and is malleable and therefore easy to change. Since it is not a physical artifact, it is not like other domains where it is harder or more expensive to make changes on the existing artifacts. One example of conformity that our company has dealt with is at times we will allow a client to inform us of how they want functionality to work and be designed, because they are the highest bidder, even though it is not the best way for it to work and does not suit the needs of other clients.
+     Software again is conceptual and is malleable and therefore easy to change. Since it is not a physical artifact, it is not like other domains where it is harder or more expensive to make changes on the existing artifacts. One example of conformity that our company has dealt with is at times we will allow a client to inform us of how they want functionality to work and be designed, because they are the highest bidder, even though it is not the best way for it to work and does not suit the needs of other clients.
 
-   *Invisibility*
+     *Invisibility*
 
-   Software is not a tangible artifact, already making it difficult to understand and is also difficult to convey to others. Brooks explains that other domain areas can be conceptualized in a single visualization, however software is so complex that it would be impossible to do that in a single diagram. This difficulty further enhances other difficulties, such as the difficulty of communicating and working on a piece of software with other people, which is already a challenging task in itself. 
+     Software is not a tangible artifact, already making it difficult to understand and is also difficult to convey to others. Brooks explains that other domain areas can be conceptualized in a single visualization, however software is so complex that it would be impossible to do that in a single diagram. This difficulty further enhances other difficulties, such as the difficulty of communicating and working on a piece of software with other people, which is already a challenging task in itself. 
 
 
 4.  **Define what Brooks means by a silver bullet and reconstruct his argument as to why he believes there is no silver bullet for software engineering.**
