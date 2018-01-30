@@ -1,7 +1,9 @@
-
 Kristopher Neilsen
+
 CSCI 5828 Foundations of Software Engineering
+
 January 23rd 2018
+
 Homework 1
 
 **Review the material in Lectures 1 and 2 and read the No Silver Bullet article available on the class's GitHub repo. Based on that review and your own experience, answer the questions below.**
