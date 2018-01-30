@@ -10,7 +10,7 @@ Homework 1
 
 1.  **Define the term essential difficulties as it is used by Brooks. Provide background and context with your answer and at least one example of an essential difficulty.** 
 
-  ​    Brooks explains essential difficulties as problems with software that stem from the definition of what software is comprised of, not from the ways in which we implement and create software. Software is comprised of many concepts that are difficult to conceptualize since they aren’t tangible. For example, software is fairly complex and it is extremely difficult to visualize all of the functionality and workflow of software in a single diagram. Therefore, contains this essential complexity by definition, then there isn’t really a way to simplify this complexity or any other essential difficulty in order to achieve an order of magnitude improvement. 
+  Brooks explains essential difficulties as problems with software that stem from the definition of what software is comprised of, not from the ways in which we implement and create software. Software is comprised of many concepts that are difficult to conceptualize since they aren’t tangible. For example, software is fairly complex and it is extremely difficult to visualize all of the functionality and workflow of software in a single diagram. Therefore, contains this essential complexity by definition, then there isn’t really a way to simplify this complexity or any other essential difficulty in order to achieve an order of magnitude improvement. 
 
   ​
 
