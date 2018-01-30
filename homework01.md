@@ -8,7 +8,8 @@ Homework 1
 
 **Review the material in Lectures 1 and 2 and read the No Silver Bullet article available on the class's GitHub repo. Based on that review and your own experience, answer the questions below.**
 
-1.  **Define the term essential difficulties as it is used by Brooks. Provide background and context with your answer and at least one example of an essential difficulty.**
+1.  **Define the term essential difficulties as it is used by Brooks. Provide background and context with your answer and at least one example of an essential difficulty.** 
+
   Brooks explains essential difficulties as problems with software that stem from the definition of what software is comprised of, not from the ways in which we implement and create software. Software is comprised of many concepts that are difficult to conceptualize since they aren’t tangible. For example, software is fairly complex and it is extremely difficult to visualize all of the functionality and workflow of software in a single diagram. Therefore, contains this essential complexity by definition, then there isn’t really a way to simplify this complexity or any other essential difficulty in order to achieve an order of magnitude improvement. 
 
 2.  **Define the term accidental difficulties as it is used by Brooks. Provide background and context with your answer and at least one example of an accidental difficulty.**
@@ -20,6 +21,7 @@ Homework 1
 3.	**List and briefly describe the four essential difficulties of developing software systems that Brooks identifies. Provide additional examples of each type of the four essential difficulties.**
 
    *Complexity*
+
    Software is a complex domain, containing many unique functions with different logic (hardly every duplicating the same parts), consisting of many different states that the program and or programmer need to keep track of (and are not always defined or caught), and lastly are often solving an already complex problem in the real world. An additional example of complexity that my company struggles with are all the corresponding artifacts that are needed in additional to just the software, such as requirements documents, technical design documents, user guides, installation guides and release notes, which all must be kept up to date and in sync for each release, which is usually more work than just creating the software. 
 
    *Conformity*
