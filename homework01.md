@@ -38,6 +38,8 @@
 
      Software is not a tangible artifact, already making it difficult to understand and is also difficult to convey to others. Brooks explains that other domain areas can be conceptualized in a single visualization, however software is so complex that it would be impossible to do that in a single diagram. This difficulty further enhances other difficulties, such as the difficulty of communicating and working on a piece of software with other people, which is already a challenging task in itself. 
 
+    ​
+
 
 4.  **Define what Brooks means by a silver bullet and reconstruct his argument as to why he believes there is no silver bullet for software engineering.**
 
